@@ -1,4 +1,4 @@
-public class calculo {
+public class Soma {
     public static void main(String[] args){
         int INDICE = 13;
         int SOMA = 0;
