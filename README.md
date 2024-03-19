@@ -24,5 +24,5 @@ EXERCÍCIO 4
 
 
 
-EXERCÍCIO 5
+EXERCÍCIO 5 (Achei mais fácil usar JavaScript, pois estou mais familiarizado com ele, e ainda estou aprendendo Java)
 ![image](https://github.com/r4ffa12/teste.java/assets/104738238/edea862a-2417-478c-9e0e-516402724cb6)
